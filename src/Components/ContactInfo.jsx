@@ -1,7 +1,7 @@
 import React, { useState,useRef } from 'react'
 import { FaLocationDot } from 'react-icons/fa6'
 
-const ContactForm = () => {
+const ContactInfo = () => {
   const [subject,setSubject] = useState('')
   const [name,setName] = useState('')
   const [message,setMessage] = useState('')
@@ -95,4 +95,4 @@ U.A.E</p>
   )
 }
 
-export default ContactForm
+export default ContactInfo
