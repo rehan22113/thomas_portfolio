@@ -1,5 +1,5 @@
 import React from 'react'
-import ContactForm from '../Components/ContactForm'
+import ContactForm from '../Components/contactForm'
 import Navbar from '../Components/layout/Navbar'
 import Footer from '../Components/layout/Footer'
 
