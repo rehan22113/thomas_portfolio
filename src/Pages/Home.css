@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@300;400;600&display=swap');
+
+#heading{
+    font-family: 'League Spartan', sans-serif !important;
+    font-weight: 600;
+}
+
