@@ -1,7 +1,7 @@
 import React from 'react'
-import ContactForm from '../Components/contactForm'
 import Navbar from '../Components/layout/Navbar'
 import Footer from '../Components/layout/Footer'
+import ContactInfo from '../Components/ContactInfo'
 
 const Contact = () => {
   return (
@@ -27,7 +27,7 @@ const Contact = () => {
   </div>
 </section>
 
-    <ContactForm/>
+    <ContactInfo/>
     <Footer />
     </div>
     </>
