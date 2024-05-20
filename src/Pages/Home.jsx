@@ -43,7 +43,10 @@ const Home = () => {
   </span>
 </h1>
           <p className="mt-3 text-white text-lg" data-aos="fade-up" data-aos-duration="3000">Nurturing Fashion Stores Worldwide with Strategic Support and Investments</p>
-          <button data-aos="fade-right" data-aos-duration="1000" className="w-full px-5 py-3 mt-6 text-sm tracking-wider text-slate-700 font-bold uppercase transition-colors duration-300 transform bg-[#ffde5a] rounded-lg lg:w-auto hover:bg-[#f9b700] focus:outline-none focus:bg-[#f9db65]">Contact us</button>
+          <div className='mt-6'>
+
+          <a href='mailto:info@stralium.com' data-aos="fade-right" data-aos-duration="1000" className="w-full px-5 py-3 mt-10 text-sm tracking-wider text-slate-700 font-bold uppercase transition-colors duration-300 transform bg-[#ffde5a] rounded-lg lg:w-auto hover:bg-[#f9b700] focus:outline-none focus:bg-[#f9db65]">Contact us</a>
+          </div>
         </div>
       </div>
       <div className="flex items-center justify-center w-full mt-6 lg:mt-0 md:w-1/2" data-aos="fade-left" data-aos-anchor-placement="top-center">
