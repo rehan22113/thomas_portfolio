@@ -36,7 +36,7 @@ const ContactInfo = () => {
         </span>
         <h2 className="mt-4 text-base font-medium text-white">Chat to sales</h2>
         <p className="mt-2 text-gray-400">Speak to our friendly team.</p>
-        <p className="mt-2 text-[#ffde5a]"><a href='mailto://info@stralium.com'>info@stralium.com</a></p>
+        <p className="mt-2 text-[#ffde5a]"><a href='mailto:info@stralium.com'>info@stralium.com</a></p>
       </div>
 
       <div className="p-4 rounded-lg md:p-6 bg-gray-800" data-aos="fade-up"
